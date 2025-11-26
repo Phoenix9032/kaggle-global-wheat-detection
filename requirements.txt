@@ -30,7 +30,7 @@ matplotlib==3.2.1         # via -r requirements.in, scikit-image
 mmcv==0.5.9               # via -r requirements.in
 more-itertools==8.3.0     # via pytest
 networkx==2.4             # via scikit-image
-numpy==1.18.4             # via -r requirements.in, albumentations, ensemble-boxes, imagecodecs, imageio, imgaug, iterative-stratification, matplotlib, mmcv, opencv-python, pandas, pywavelets, scikit-image, scikit-learn, scipy, tifffile, torch, torchvision
+numpy==1.22.2             # via -r requirements.in, albumentations, ensemble-boxes, imagecodecs, imageio, imgaug, iterative-stratification, matplotlib, mmcv, opencv-python, pandas, pywavelets, scikit-image, scikit-learn, scipy, tifffile, torch, torchvision
 opencv-python==4.2.0.34   # via albumentations, mmcv
 packaging==20.3           # via pytest
 pandas==1.0.3             # via -r requirements.in, ensemble-boxes
